@@ -1,0 +1,16 @@
+title: Atelier "La bataille de l'IA"
+author: Pierre-Loïc Bayart - Animateur de la bataille de l'IA - <a href="mailto:Pierre-Loic.Bayart@grenoble-inp.fr">Pierre-Loic.Bayart@grenoble-inp.fr</a>
+copyright: 2024 
+logo: logo.png
+
+
+repository:
+  url: https://github.com/data-for-good-grenoble/complement-bataille-IA 
+  path_to_book: docs  # Optional path to your book, relative to the repository root
+  branch: main  # Which branch of the repository should be used when creating links (optional)
+
+# Add GitHub buttons to your book
+# See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
+html:
+  use_issues_button: true
+  use_repository_button: true
