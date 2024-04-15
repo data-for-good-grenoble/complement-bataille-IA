@@ -1,7 +1,5 @@
 name: deploy-book
 
-name: deploy-book
-
 on:
   push:
     branches:
