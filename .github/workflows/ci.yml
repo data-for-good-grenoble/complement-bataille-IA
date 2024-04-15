@@ -45,7 +45,7 @@ jobs:
 
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: https://data-for-good-grenoble.github.io/complement-bataille-IA/
 
     steps:
       - name: Checkout code
