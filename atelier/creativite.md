@@ -36,3 +36,5 @@
 </div>
 
 - <a href="https://www.arte.tv/fr/videos/110342-003-A/le-dessous-des-images/" target="_blank">Le dessous des images - L'oeuvre et l'intelligence artificielle</a>, Arte, 10/05/23
+
+- <a href="https://www.francetvinfo.fr/replay-radio/aujourd-hui-c-est-demain/intelligence-artificielle-channel-1-lance-une-chaine-televisee-d-information-presentee-par-des-faux-humains-en-images-de-synthese_6213984.html" target="_blank">Intelligence artificielle : Channel 1 lance une chaîne télévisée d'information présentée par des journalistes en images de synthèse</a>, franceinfo, 14/12/23

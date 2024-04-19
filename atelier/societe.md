@@ -37,5 +37,21 @@
 
 - <a href="https://www.radiofrance.fr/franceculture/podcasts/le-biais-d-aurelie-jean/le-biais-d-aurelie-jean-chronique-du-mardi-26-mars-2024-5747798" target="_blank">IA : pourquoi les intellectuels paniquent-ils ?</a>, France Culture, 26/03/2024
 
-- <a href="https://youtu.be/HEZogcu7x_o" target="_blank">L’IA va-t-elle perturber les élections en 2024 ?, AFP, 11/01/24
+- <a href="https://youtu.be/HEZogcu7x_o" target="_blank">L’IA va-t-elle perturber les élections en 2024 ?</a>, AFP, 11/01/24
+
+- <a href="https://youtu.be/UA3w_Sfl2Gg" traget="_blank">Intelligence artificielle : comment la maîtriser ?</a>, Public Sénat, 14/12/23
+
+<div class="iframe-wrapper">
+    <div class="container">
+        <iframe class="responsive-iframe" width="300" height="150" src="https://www.youtube-nocookie.com/embed/UA3w_Sfl2Gg" title="Intelligence artificielle : comment la maîtriser ?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+</div>
+
+- <a href="https://youtu.be/2RXFvqJK59w" traget="_blank">Des philosophes contre les robots : Raphaël Enthoven face à Éric Sadin</a>, Le Figaro, 15/02/24
+
+<div class="iframe-wrapper">
+    <div class="container">
+        <iframe class="responsive-iframe" width="300" height="150" src="https://www.youtube-nocookie.com/embed/2RXFvqJK59w" title="Des philosophes contre les robots : Raphaël Enthoven face à Éric Sadin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+</div>
 
