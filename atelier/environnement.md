@@ -25,7 +25,11 @@
 
 # 🌍 Environnement
 
+## 🎤 Ressources audio
+
 - <a href="https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/le-cout-environnemental-de-l-ia-est-colossal-et-sous-evalue-3781962" target="_blank">Le coût environnemental de l'IA est colossal et... sous-évalué</a>, France Culture, 22/02/24
+
+## 📺 Ressources vidéo
 
 - <a href="https://youtu.be/2m8TppMA7es" target="_blank">L'Intelligence Artificielle au service de l'environnement - Les éclairages industriels de l'IA#8</a>, Minalogic, 14/11/23
 

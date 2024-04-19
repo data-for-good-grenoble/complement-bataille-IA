@@ -25,6 +25,14 @@
 
 # 👥 Société
 
+## 🎤 Ressources audio
+
+- <a href="https://www.radiofrance.fr/franceinter/podcasts/veille-sanitaire/veille-sanitaire-du-vendredi-29-mars-2024-4569994" target="_blank">Des influenceuses victimes de deepfakes sur les réseaux chinois</a>, France Inter, 29/03/24
+
+- <a href="https://www.radiofrance.fr/franceculture/podcasts/le-biais-d-aurelie-jean/le-biais-d-aurelie-jean-chronique-du-mardi-26-mars-2024-5747798" target="_blank">IA : pourquoi les intellectuels paniquent-ils ?</a>, France Culture, 26/03/2024
+
+## 📺 Ressources vidéo
+
 - <a href="https://youtu.be/Zjr1bqE8Bg0" traget="_blank">Le B.A.-BA de l'intelligence artificielle | Une leçon de géopolitique | ARTE</a>, Le Dessous des Cartes - ARTE, 15/03/24
 
 <div class="iframe-wrapper">
@@ -32,10 +40,6 @@
         <iframe class="responsive-iframe" width="300" height="150" src="https://www.youtube-nocookie.com/embed/Zjr1bqE8Bg0" title="Le B.A.-BA de l'intelligence artificielle | Une leçon de géopolitique | ARTE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
 </div>
-
-- <a href="https://www.radiofrance.fr/franceinter/podcasts/veille-sanitaire/veille-sanitaire-du-vendredi-29-mars-2024-4569994" target="_blank">Des influenceuses victimes de deepfakes sur les réseaux chinois</a>, France Inter, 29/03/24
-
-- <a href="https://www.radiofrance.fr/franceculture/podcasts/le-biais-d-aurelie-jean/le-biais-d-aurelie-jean-chronique-du-mardi-26-mars-2024-5747798" target="_blank">IA : pourquoi les intellectuels paniquent-ils ?</a>, France Culture, 26/03/2024
 
 - <a href="https://youtu.be/HEZogcu7x_o" target="_blank">L’IA va-t-elle perturber les élections en 2024 ?</a>, AFP, 11/01/24
 
@@ -52,6 +56,14 @@
 <div class="iframe-wrapper">
     <div class="container">
         <iframe class="responsive-iframe" width="300" height="150" src="https://www.youtube-nocookie.com/embed/2RXFvqJK59w" title="Des philosophes contre les robots : Raphaël Enthoven face à Éric Sadin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+</div>
+
+- <a href="https://youtu.be/_kcnrG6Yxfo" traget="_blank">Course à l'IA, vers le meilleur des mondes ? | ARTE</a>, ARTE, 28/02/24
+
+<div class="iframe-wrapper">
+    <div class="container">
+        <iframe class="responsive-iframe" width="300" height="150" src="https://www.youtube-nocookie.com/embed/_kcnrG6Yxfo" title="Course à l'IA, vers le meilleur des mondes ? | ARTE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
 </div>
 
