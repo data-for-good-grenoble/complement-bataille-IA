@@ -43,3 +43,6 @@
 
 - <a href="https://www.arte.tv/fr/videos/110342-003-A/le-dessous-des-images/" target="_blank">Le dessous des images - L'oeuvre et l'intelligence artificielle</a>, Arte, 10/05/23
 
+## 📚 Ressources texte
+
+- <a href="https://www.microsoft.com/en-us/research/project/vasa-1/" target="_blank">VASA-1: Lifelike Audio-Driven Talking Faces Generated in Real Time</a>, Microsoft, 16/04/24
