@@ -31,6 +31,10 @@
 
 - <a href="https://www.radiofrance.fr/franceculture/podcasts/le-biais-d-aurelie-jean/le-biais-d-aurelie-jean-chronique-du-mardi-26-mars-2024-5747798" target="_blank">IA : pourquoi les intellectuels paniquent-ils ?</a>, France Culture, 26/03/2024
 
+- <a href="https://www.radiofrance.fr/franceculture/podcasts/sciences-chrono/neurone-et-ia-la-bonne-connexion-5706823" target="_blank">Neurone et IA : la bonne connexion ?</a>, France Culture, 20/04/2024
+
+- <a href="https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/joelle-pineau-mettre-les-points-sur-les-ia-2857321" target="_blank">Joëlle Pineau : mettre les points sur les IA</a>, France Culture, 02/05/2024
+
 ## 📺 Ressources vidéo
 
 - <a href="https://youtu.be/Zjr1bqE8Bg0" traget="_blank">Le B.A.-BA de l'intelligence artificielle | Une leçon de géopolitique | ARTE</a>, Le Dessous des Cartes - ARTE, 15/03/24
